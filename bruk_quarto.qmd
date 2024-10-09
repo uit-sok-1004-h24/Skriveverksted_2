@@ -1,6 +1,6 @@
 ---
 title: "Bruk av Quarto"
-subtitle: "SOK-1004 H23"
+subtitle: "SOK-1004 H24"
 author: "Derek J. Clark"
 format:
   pdf:
